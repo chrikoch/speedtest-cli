@@ -1,2 +1,2 @@
-*/10 * * * * pi /home/pi/speedtest-cli/speedtest.sh 1>> /home/pi/speedtest-cli/speedtest.csv 2>>/dev/null
+7,37 * * * * pi /home/pi/speedtest-cli/speedtest.sh 1>> /home/pi/speedtest-cli/speedtest.csv 2>>/dev/null
 
